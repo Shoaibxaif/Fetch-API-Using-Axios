@@ -26,7 +26,7 @@ Before you begin, ensure you have the following prerequisites in place:
 
    ```bash
    npm install axios
-   # or
+   #or
    yarn add axios
    ```
 
