@@ -1,4 +1,4 @@
-```markdown
+
 # Fetch API Using Axios
 
 A simple guide on how to fetch data from an API in a React component using Axios.
