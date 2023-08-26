@@ -100,5 +100,5 @@ export default FetchApi;
 ## Conclusion
 
 You've now learned how to fetch data from an API and display it in a React component using Axios. This simple example demonstrates the fundamental steps required for making API requests and handling responses in a React application. As you continue to explore Axios, you can dive deeper into advanced features like handling headers, timeouts, and interceptors, making it a versatile tool for working with APIs in React applications. Happy coding!
-```
+
 
